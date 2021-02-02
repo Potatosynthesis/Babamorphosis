@@ -1,0 +1,10 @@
+[general]
+name=Babamorphosis
+firstlevel=1level
+start=2level
+author=Potatosynthesis
+
+[levels]
+levelid=23
+rolling_levelid=23
+
